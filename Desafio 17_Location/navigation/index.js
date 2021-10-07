@@ -9,6 +9,7 @@ import AppLoading from 'expo-app-loading';
 //Componentes
 import TabMenu from './Tab/TabMenu';
 import AuthScreen from './UserAuth/AuthScreen';
+import PlaceNavigator from './PlaceNavigator'
 
 export default function Index() {
 
